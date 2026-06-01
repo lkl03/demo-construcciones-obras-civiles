@@ -1,2 +1,7 @@
-# demo-construcciones-obras-civiles
-Demo web para Construcciones obras civiles — diseñada por eterlab.
+# Construcciones obras civiles
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
